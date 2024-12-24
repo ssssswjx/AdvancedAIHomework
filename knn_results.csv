@@ -1,0 +1,5 @@
+model,k,accuracy,error_count
+KNN,1,0.9691,309
+KNN,3,0.9705,295
+KNN,5,0.9688,312
+KNN,7,0.9694,306
